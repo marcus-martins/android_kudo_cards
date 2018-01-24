@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_team"
+        android:icon="@drawable/ic_group_black_24dp"
+        android:title="@string/team"/>
+
+    <item
+        android:id="@+id/navigation_received"
+        android:icon="@drawable/ic_receipt_black_24dp"
+        android:title="@string/received"/>
+
+    <item
+        android:id="@+id/navigation_sent"
+        android:icon="@drawable/ic_rate_review_black_24dp"
+        android:title="@string/sent"/>
+
+</menu>

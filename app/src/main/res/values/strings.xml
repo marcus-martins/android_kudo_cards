@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">KudosFeed</string>
+    <string name="new_kudo_card_notification_title">Novo Kudo Card!</string>
+    <string name="team">Time</string>
+    <string name="received">Recebidos</string>
+    <string name="sent">Enviados</string>
+    <string name="send">Enviar</string>
+    <string name="select_one_person">Escolha uma pessoa para enviar um Kudo Card</string>
+    <string name="sent_kudo_card_success">Seu Kudo Card foi enviado com sucesso!</string>
+    <string name="ok_text">OK</string>
+    <string name="cancel_text">Cancelar</string>
+    <string name="from">De:\u0020%s</string>
+    <string name="to">Para:\u0020%s</string>
+    <string name="attention_alert">Atenção!</string>
+    <string name="error_retrieve_data">Ops! Ocorreu um erro ao obter dados.</string>
+    <string name="change_user_team">Novo time</string>
+    <string name="do_logout">Logout</string>
+    <string name="type_new_team">Digite o nome do seu time.</string>
+    <string name="team_name">Nome do time</string>
+    <string name="logout_dialog_message">Deseja fazer logout?</string>
+</resources>
